@@ -5,4 +5,4 @@ This is the sample application for
 by [Michael Hartl](http://michaelhartl.com/).
 
 Heroku Location:
-[**]()
+[*http://frozen-savannah-7414.herokuapp.com/*](http://frozen-savannah-7414.herokuapp.com/)
